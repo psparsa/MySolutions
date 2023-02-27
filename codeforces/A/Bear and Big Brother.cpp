@@ -1,7 +1,8 @@
 // Problem: A. Bear and Big Brother
 // Contest: Codeforces - Codeforces Round #405 (rated, Div. 2, based on VK Cup
-// 2017 Round 1) URL: https://codeforces.com/problemset/problem/791/A Memory
-// Limit: 256 MB Time Limit: 1000 ms
+// 2017 Round 1) URL: https://codeforces.com/problemset/problem/791/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
 
 #include <iostream>
 using namespace std;
