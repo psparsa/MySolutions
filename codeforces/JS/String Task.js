@@ -1,3 +1,9 @@
+// Problem: A. String Task
+// Contest: Codeforces - Codeforces Beta Round #89 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/118/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,

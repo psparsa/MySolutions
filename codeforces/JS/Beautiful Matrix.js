@@ -1,3 +1,9 @@
+// Problem: A. Beautiful Matrix
+// Contest: Codeforces - Codeforces Round #161 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/263/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,

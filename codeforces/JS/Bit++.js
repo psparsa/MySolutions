@@ -1,3 +1,9 @@
+// Problem: A. Bit++
+// Contest: Codeforces - Codeforces Round #173 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/282/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,

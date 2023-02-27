@@ -1,3 +1,9 @@
+// Problem: A. Petya and Strings
+// Contest: Codeforces - Codeforces Beta Round #85 (Div. 2 Only)
+// URL: https://codeforces.com/problemset/problem/112/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,

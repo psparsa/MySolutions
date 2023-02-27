@@ -1,3 +1,9 @@
+// Problem: A. Next Round
+// Contest: Codeforces - VK Cup 2012 Qualification Round 1
+// URL: https://codeforces.com/problemset/problem/158/A
+// Memory Limit: 256 MB
+// Time Limit: 3000 ms
+
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,

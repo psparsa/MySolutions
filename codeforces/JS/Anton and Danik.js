@@ -1,3 +1,9 @@
+// Problem: A. Anton and Danik
+// Contest: Codeforces - Codeforces Round #379 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/734/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
