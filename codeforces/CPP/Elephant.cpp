@@ -1,3 +1,9 @@
+// Problem: A. Elephant
+// Contest: Codeforces - Codeforces Round #340 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/617/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <iostream>
 using namespace std;
 

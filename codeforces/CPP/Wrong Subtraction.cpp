@@ -1,3 +1,9 @@
+// Problem: A. Wrong Subtraction
+// Contest: Codeforces - Codeforces Round #479 (Div. 3)
+// URL: https://codeforces.com/problemset/problem/977/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <iostream>
 using namespace std;
 

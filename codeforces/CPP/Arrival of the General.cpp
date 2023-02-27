@@ -1,3 +1,9 @@
+// Problem: A. Arrival of the General
+// Contest: Codeforces - Codeforces Round #103 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/144/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 using namespace std;
 

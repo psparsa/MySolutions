@@ -1,3 +1,9 @@
+// Problem: A. Chat room
+// Contest: Codeforces - Codeforces Beta Round #54 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/58/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <iostream>
 #include <string>
 using namespace std;

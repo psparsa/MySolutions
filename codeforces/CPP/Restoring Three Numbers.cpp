@@ -1,3 +1,9 @@
+// Problem: A. Restoring Three Numbers
+// Contest: Codeforces - Codeforces Round #552 (Div. 3)
+// URL: https://codeforces.com/problemset/problem/1154/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <algorithm>
 #include <iostream>
 using namespace std;

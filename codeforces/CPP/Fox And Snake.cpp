@@ -1,3 +1,9 @@
+// Problem: A. Fox And Snake
+// Contest: Codeforces - Codeforces Round #290 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/510/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 using namespace std;
 

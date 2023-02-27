@@ -1,3 +1,9 @@
+// Problem: A. Even Odds
+// Contest: Codeforces - Codeforces Round #188 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/318/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,3 +1,9 @@
+// Problem: A. Dislike of Threes
+// Contest: Codeforces - Codeforces Round #739 (Div. 3)
+// URL: https://codeforces.com/problemset/problem/1560/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <iostream>
 using namespace std;
 

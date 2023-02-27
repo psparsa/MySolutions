@@ -1,3 +1,9 @@
+// Problem: A. Young Physicist
+// Contest: Codeforces - Codeforces Beta Round #63 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/69/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 using namespace std;
 

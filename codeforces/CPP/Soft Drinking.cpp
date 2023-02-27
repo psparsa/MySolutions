@@ -1,3 +1,9 @@
+// Problem: A. Soft Drinking
+// Contest: Codeforces - Codeforces Round #107 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/151/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,9 @@
+// Problem: A. New Year and Hurry
+// Contest: Codeforces - Good Bye 2016
+// URL: https://codeforces.com/problemset/problem/750/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <iostream>
 using namespace std;
 

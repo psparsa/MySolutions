@@ -1,3 +1,9 @@
+// Problem: A. I Wanna Be the Guy
+// Contest: Codeforces - Codeforces Round #268 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/469/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <iostream>
 using namespace std;
 

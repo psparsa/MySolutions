@@ -1,3 +1,9 @@
+// Problem: A. Odd Divisor
+// Contest: Codeforces - Codeforces Round #697 (Div. 3)
+// URL: https://codeforces.com/problemset/problem/1475/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 using namespace std;
 

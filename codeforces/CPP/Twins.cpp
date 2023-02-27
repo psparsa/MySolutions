@@ -1,3 +1,9 @@
+// Problem: A. Twins
+// Contest: Codeforces - Codeforces Round #111 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/160/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <algorithm>
 #include <iostream>
 using namespace std;

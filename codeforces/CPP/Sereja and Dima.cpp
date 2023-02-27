@@ -1,3 +1,9 @@
+// Problem: A. Sereja and Dima
+// Contest: Codeforces - Codeforces Round #223 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/381/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <iostream>
 using namespace std;
 

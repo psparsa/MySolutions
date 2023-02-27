@@ -1,3 +1,9 @@
+// Problem: A. cAPS lOCK
+// Contest: Codeforces - Codeforces Beta Round #95 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/131/A
+// Memory Limit: 256 MB
+// Time Limit: 500 ms
+
 #include <cstring>
 #include <iostream>
 using namespace std;

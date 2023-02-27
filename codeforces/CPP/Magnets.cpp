@@ -1,3 +1,9 @@
+// Problem: A. Magnets
+// Contest: Codeforces - Codeforces Round #200 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/344/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <iostream>
 using namespace std;
 

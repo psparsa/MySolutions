@@ -1,3 +1,9 @@
+// Problem: B. Queue at the School
+// Contest: Codeforces - Codeforces Round #163 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/266/B
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 #include <string>
 using namespace std;

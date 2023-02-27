@@ -1,3 +1,9 @@
+// Problem: B. Drinks
+// Contest: Codeforces - Codeforces Round #126 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/200/B
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iomanip>
 #include <iostream>
 using namespace std;

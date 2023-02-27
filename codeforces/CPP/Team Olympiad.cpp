@@ -1,3 +1,9 @@
+// Problem: A. Team Olympiad
+// Contest: Codeforces - Codeforces Round #279 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/490/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <iostream>
 using namespace std;
 

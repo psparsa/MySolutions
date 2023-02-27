@@ -1,3 +1,9 @@
+// Problem: A. Hit the Lottery
+// Contest: Codeforces - Codeforces Round #492 (Div. 2) [Thanks, uDebug!]
+// URL: https://codeforces.com/problemset/problem/996/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,9 @@
+// Problem: A. Presents
+// Contest: Codeforces - Codeforces Beta Round #97 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/136/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 using namespace std;
 

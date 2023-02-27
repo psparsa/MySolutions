@@ -1,3 +1,9 @@
+// Problem: A. HQ9+
+// Contest: Codeforces - Codeforces Beta Round #96 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/133/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 using namespace std;
 

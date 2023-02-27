@@ -1,3 +1,9 @@
+// Problem: A. Ultra-Fast Mathematician
+// Contest: Codeforces - Codeforces Beta Round #57 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/61/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 using namespace std;
 

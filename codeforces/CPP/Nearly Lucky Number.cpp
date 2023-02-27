@@ -1,3 +1,9 @@
+// Problem: A. Nearly Lucky Number
+// Contest: Codeforces - Codeforces Beta Round #84 (Div. 2 Only)
+// URL: https://codeforces.com/problemset/problem/110/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 using namespace std;
 

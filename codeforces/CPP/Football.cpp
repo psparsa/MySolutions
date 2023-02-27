@@ -1,3 +1,9 @@
+// Problem: A. Football
+// Contest: Codeforces - Codeforces Beta Round #77 (Div. 2 Only)
+// URL: https://codeforces.com/problemset/problem/96/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 using namespace std;
 

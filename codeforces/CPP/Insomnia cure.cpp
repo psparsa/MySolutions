@@ -1,3 +1,9 @@
+// Problem: A. Insomnia cure
+// Contest: Codeforces - Codeforces Round #105 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/148/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 using namespace std;
 

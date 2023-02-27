@@ -1,3 +1,9 @@
+// Problem: A. Gravity Flip
+// Contest: Codeforces - Codeforces Round #238 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/405/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <algorithm>
 #include <iostream>
 using namespace std;

@@ -1,3 +1,9 @@
+// Problem: A. Divisibility Problem
+// Contest: Codeforces - Codeforces Round #629 (Div. 3)
+// URL: https://codeforces.com/problemset/problem/1328/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <iostream>
 using namespace std;
 

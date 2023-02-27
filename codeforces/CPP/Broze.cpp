@@ -1,3 +1,9 @@
+// Problem: B. Borze
+// Contest: Codeforces - Codeforces Beta Round #32 (Div. 2, Codeforces format)
+// URL: https://codeforces.com/problemset/problem/32/B
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 using namespace std;
 

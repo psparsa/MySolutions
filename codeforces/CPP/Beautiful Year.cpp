@@ -1,3 +1,9 @@
+// Problem: A. Beautiful Year
+// Contest: Codeforces - Codeforces Round #166 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/271/A
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,9 @@
+// Problem: A. Police Recruits
+// Contest: Codeforces - Codeforces Round #244 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/427/A
+// Memory Limit: 256 MB
+// Time Limit: 1000 ms
+
 #include <iostream>
 using namespace std;
 
