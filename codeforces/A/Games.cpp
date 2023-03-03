@@ -5,14 +5,19 @@
 // Time Limit: 1000 ms
 
 #include <iostream>
-using namepsace std;
+using namespace std;
 
 int main() {
-  int n;
+  int n, tmp = 0;
   cin >> n;
+  int teams[2][n];
 
-  for (int i = 0; i < n; ++i) {
-  }
+  for (int i = 0; i < n; i++) cin >> teams[0][i] >> teams[1][i];
+
+  for (int i = 0; i < n; ++i)
+    for (int j = 0; j < n; ++j) tmp += teams[0][i] == teams[1][j] ? 1 : 0;
+
+  cout << tmp;
 
   return 0;
 }
